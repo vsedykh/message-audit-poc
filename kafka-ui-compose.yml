@@ -1,0 +1,6 @@
+version: '3.5'
+
+services:
+  kcat:
+    image: edenhill/kcat:1.7.1
+    container_name: kcat
